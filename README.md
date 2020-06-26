@@ -1,2 +1,2 @@
-# Srm-geethakrishnaintern-for-react.js
+# Srm-internship-for-react.js
 The repository contain info of react.js about-SRM internship
