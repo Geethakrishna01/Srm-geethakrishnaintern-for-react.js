@@ -4,8 +4,8 @@ The repository contain info of react.js about-SRM internship
 
 ## Day 01 : introduction part
 
-*web design is noti
+*web design is noti*
 
-**web development is 
+**web development**
 
-***web design
+***web design***
